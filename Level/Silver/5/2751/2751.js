@@ -15,6 +15,5 @@ let input = fs
   .map(Number);
 
 let set = [...new Set(input.slice(1, input.length))];
-console.log(set);
 let sort = set.sort((a, b) => a - b);
 console.log(...sort);
