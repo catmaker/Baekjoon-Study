@@ -96,3 +96,4 @@
 |   1019    |               [책 페이지](https://www.acmicpc.net/problem/1019)                |
 |   1920    |                [수 찾기](https://www.acmicpc.net/problem/1920)                 |
 |   11866   |            [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)            |
+|   1978    |               [소수 찾기](https://www.acmicpc.net/problem/1978)                |
